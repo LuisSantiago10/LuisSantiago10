@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### Hi, I'm Luis Santiago
+
+I'm a software engineer who is passionate about  creating technology to improve the world and building community. Some technologies I enjoy working with include javascript with React js - node js and Java (learning).
 
 <!--
 **LuisSantiago10/LuisSantiago10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
